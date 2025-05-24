@@ -1,6 +1,6 @@
 ## OrbitMaker
-<a href="https://rocket090.github.io/orbit/Ver1.0/OrbitMaker.html">Ver1.0</a>
-<a href="https://rocket090.github.io/orbit/Ver2.0/OrbitMaker2.html">Ver2.0</a>
+<a href="https://rocket090.github.io/Orbit/Ver1.0/OrbitMaker.html">Ver1.0</a>
+<a href="https://rocket090.github.io/Orbit/Ver2.0/OrbitMaker2.html">Ver2.0</a>
 
 - 宇宙機の軌道を視覚的に理解するため、javascriptの勉強も兼ねて制作<br>
 - いくつかのサイトにインスピレーションを受けて作成<br>
